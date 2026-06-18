@@ -29,11 +29,11 @@ Specialized in cloud-based data engineering with hands-on experience in Microsof
 ---
 
 ### Certifications
-*** Microsoft Certified: Fabric Data Engineer Associate
-* Microsoft Certified: Azure Databricks Data Engineer Associate
-* Microsoft Certified: Azure Data Fundamentals
-* Databricks Fundamentals Accreditation
-* Cisco Data Analytics Essentials**
+* **Microsoft Certified: Fabric Data Engineer Associate**
+* **Microsoft Certified: Azure Databricks Data Engineer Associate**
+* **Microsoft Certified: Azure Data Fundamentals**
+* **Databricks Fundamentals Accreditation**
+* **Cisco Data Analytics Essentials**
 
 ---
 
