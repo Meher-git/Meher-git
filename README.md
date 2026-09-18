@@ -1,6 +1,6 @@
 # Hi there, I'm Meher! 👋
 
-Senior Data Engineer with 10+ years of experience specialized in big data, cloud technologies, data warehousing, and data pipelines. 
+Senior Data Engineer specialized in big data, cloud technologies, data warehousing, and data pipelines. 
 
 Specialized in cloud-based data engineering with hands-on experience in Microsoft Azure, Google Cloud Platform (GCP), and Databricks. Skilled in designing data pipelines, data processing frameworks, and analytics solutions using Python, SQL, Apache Spark, and PySpark.
 
